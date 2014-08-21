@@ -1,0 +1,5 @@
+C:\Users\mwest\Desktop\Michael\BookStore.BusinessObjects\bin\Debug\BookStore.BusinessObjects.dll
+C:\Users\mwest\Desktop\Michael\BookStore.BusinessObjects\bin\Debug\BookStore.BusinessObjects.pdb
+C:\Users\mwest\Desktop\Michael\BookStore.BusinessObjects\obj\Debug\BookStore.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\mwest\Desktop\Michael\BookStore.BusinessObjects\obj\Debug\BookStore.BusinessObjects.dll
+C:\Users\mwest\Desktop\Michael\BookStore.BusinessObjects\obj\Debug\BookStore.BusinessObjects.pdb

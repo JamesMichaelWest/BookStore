@@ -1,0 +1,11 @@
+C:\Users\mwest\Desktop\Michael\BookStore.BLL\bin\Debug\BookStore.BLL.dll
+C:\Users\mwest\Desktop\Michael\BookStore.BLL\bin\Debug\BookStore.BLL.pdb
+C:\Users\mwest\Desktop\Michael\BookStore.BLL\bin\Debug\BookStore.BusinessObjects.dll
+C:\Users\mwest\Desktop\Michael\BookStore.BLL\bin\Debug\BookStore.DAL.dll
+C:\Users\mwest\Desktop\Michael\BookStore.BLL\bin\Debug\EntityFramework.dll
+C:\Users\mwest\Desktop\Michael\BookStore.BLL\bin\Debug\BookStore.BusinessObjects.pdb
+C:\Users\mwest\Desktop\Michael\BookStore.BLL\bin\Debug\BookStore.DAL.pdb
+C:\Users\mwest\Desktop\Michael\BookStore.BLL\bin\Debug\EntityFramework.xml
+C:\Users\mwest\Desktop\Michael\BookStore.BLL\obj\Debug\BookStore.BLL.csprojResolveAssemblyReference.cache
+C:\Users\mwest\Desktop\Michael\BookStore.BLL\obj\Debug\BookStore.BLL.dll
+C:\Users\mwest\Desktop\Michael\BookStore.BLL\obj\Debug\BookStore.BLL.pdb
